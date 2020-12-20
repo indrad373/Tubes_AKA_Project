@@ -22,7 +22,7 @@ Anda hanya tinggal mencari program exe pada folder dist/nama_program/nama_progra
 ## 3. Jalankan program dengan python
 Pertama, pastikan anda sudah menginstall python sebelumnya dan juga sudah menginstall beberapa library seperti matplotlib dan pygame sebelumnya. Jika sudah anda dapat membuka terminal atau cmd dan tuliskan perintah seperti ini:
 
-** Windows User ***
+** Windows User **
 ```
 python mergeSort.py
 ```
@@ -33,7 +33,7 @@ or
 py mergeSort.py
 ```
 
-** Linux/Mac User ***
+** Linux/Mac User **
 ```
 python3 mergeSort.py
 ```
