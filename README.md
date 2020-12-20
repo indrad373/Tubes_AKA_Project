@@ -3,7 +3,7 @@ Repository ini adalah proyek dari tugas besar mata kuliah Analisis Kompleksitas 
 
 ## Cara Menjalankan Program
 
-## 1. Download atau clone repository
+### 1. Download atau clone repository
 Anda bisa menekan tombol hijau bertuliskan "Code"diatas dan kemudian anda dapat Download ZIP atau anda juga dapat clone repository ini dengan menyalin link github repository ini:
 
 ```
@@ -16,10 +16,10 @@ dan kemudian tulis pada terminal atau cmd:
 git clone https://github.com/indrad373/Tubes_AKA_Project.git
 ```
 
-## 2. Jalankan program dengan menggunakan executable installer (windows user)
+### 2. Jalankan program dengan menggunakan executable installer (windows user)
 Anda hanya tinggal mencari program exe pada folder dist/nama_program/nama_program.exe kemudian klik file exe tersebut.
 
-## 3. Jalankan program dengan python
+### 3. Jalankan program dengan python
 Pertama, pastikan anda sudah menginstall python sebelumnya dan juga sudah menginstall beberapa library seperti matplotlib dan pygame sebelumnya. Jika sudah anda dapat membuka terminal atau cmd dan tuliskan perintah seperti ini:
 
 **Windows User**
